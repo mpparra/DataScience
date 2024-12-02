@@ -5,12 +5,7 @@ This repository contains a collection of projects developed in Jupyter Notebooks
       It involves geospatial data processing, feature engineering, and supervised learning techniques to classify routes based on their characteristics.
       The goal is to improve route optimization and identify patterns in urban mobility.
 
-3. Credit Risk Scoring Models (CreditCardsModels.ipynb)
-   [[[[This one is unfinished]]]]
-    Develops credit risk models using supervised learning techniques like logistic regression and boosting algorithms (e.g., LightGBM, XGBoost).
-    Objective: Assess default probabilities and optimize credit allocation strategies.
-
-4. Lead Scoring (LeadScoring_***)
+2. Lead Scoring (LeadScoring_***)
       A series of notebooks covering the complete lifecycle of a Lead Scoring project:
 
       Data Transformation: Preparing and cleaning datasets for modeling.
@@ -22,14 +17,14 @@ This repository contains a collection of projects developed in Jupyter Notebooks
       LeadScoring_07_Modelización para Clasificación: Supervised classification to predict lead conversion.
 
 
-5. Stolen Motorcycles Analysis (MarioPeñas_MotosRobadas_Mapit.ipynb)
+3. Stolen Motorcycles Analysis (MarioPeñas_MotosRobadas_Mapit.ipynb)
       Exploratory data analysis focused on identifying patterns related to stolen motorcycles. Includes data cleaning techniques and visualizations to highlight critical areas and temporal trends.
 
-6. Premier League - Sports Data Analysis (Premier league.ipynb)
+4. Premier League - Sports Data Analysis (Premier league.ipynb)
       Not finished
       Explores and analyzes data from English football, with metrics on team performance, player statistics, and historical trends.
 
-7. Retail Forecasting and Data Quality (Retail_***)
+5. Retail Forecasting and Data Quality (Retail_***)
       A collection of projects focusing on the retail industry:
 
       Exploratory Data Analysis (EDA): Retail_03_EDA.ipynb.
@@ -38,7 +33,7 @@ This repository contains a collection of projects developed in Jupyter Notebooks
       Key Example:
       
       Retail_06_Modelización para Regresión: Predicting future sales based on business variables.
-8. Risk Scoring (RiskScoring_***)
+6. Risk Scoring (RiskScoring_***)
       An advanced project centered on credit risk assessment:
 
       EDA: Exploring key risk factors.
@@ -49,7 +44,7 @@ This repository contains a collection of projects developed in Jupyter Notebooks
       Automation: Creation of pipelines for production deployment.
 
    
-9. Unsupervised Learning (Unsupervised_prueba_oferta_trabajo.ipynb)
+7. Unsupervised Learning (Unsupervised_prueba_oferta_trabajo.ipynb)
       A project showcasing the use of unsupervised learning algorithms, such as clustering and dimensionality reduction, applied to a practical case study related to a job offer.
 
       Technologies Used
